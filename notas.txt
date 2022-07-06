@@ -3,4 +3,4 @@ SQL
         sudo mysql -u root -p
             Ponemos la contraseña de el usuario
             Luego ponemos esta contraseña: 1234Hola
-
+hola
